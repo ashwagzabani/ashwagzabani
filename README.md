@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashwag Zabani
+
+A Software Engineer ![til](./app/assets/images/banner.png)
+
+
+
 
 <!--
 **ashwagzabani/ashwagzabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
