@@ -2,7 +2,7 @@
 
  ```javascript
    const aboutMe = { 
-            	"code" : [ Javascript, HTML, CSS, Python, Java ],
+            	code : [ Javascript, HTML, CSS, Python, Java ],
             	tools: [ React, Node, Django, Boostrap, jQuery ],
             	databases: [ MongoDB, Postgres, SQL ]
             }
