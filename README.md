@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ashwag Zabani
 
-A Software Engineer ![til](./app/assets/images/banner.png)
+A Software Engineer ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
